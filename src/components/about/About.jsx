@@ -16,7 +16,7 @@ const About = () => {
             >
               {about.text[language]}
             </h1>
-            <img src="/images/hero/eu-v2.png" alt="" />
+            <img src="./images/hero/eu-v2.png" alt="" />
             <p className="my-4 text-xl">{hero.text[language]}</p>
           </div>
           {/* mobile */}
@@ -25,7 +25,7 @@ const About = () => {
           <div className="hidden md:block lg:hidden">
             <div className="flex items-center justify-center gap-x-12  lg:hidden">
               <img
-                src="/images/hero/eu-v2.png"
+                src="./images/hero/eu-v2.png"
                 className="w-[50%] h-full"
                 alt=""
               />
@@ -44,7 +44,7 @@ const About = () => {
           {/* desktop  */}
           <div className="hidden lg:block">
             <div className="flex gap-x-24">
-              <img src="/images/hero/eu-v2.png" className="h-full" alt="" />
+              <img src="./images/hero/eu-v2.png" className="h-full" alt="" />
               <div className="flex flex-col justify-center">
                 <h1 className={`w-[410px] font-semibold  text-7xl xl:text-8xl`}>
                   {about.text[language]}

@@ -29,18 +29,18 @@ const Services = () => {
       </InView>
 
         <div className="block md:flex justify-between">
-            <img src="/images/projects/Anfahrtsvideo_Auto.gif" alt="" className="w-[500px] mb-5 md:mb-0" />
-            <img src="/images/projects/Beratung_&_Förderung.gif" alt="" className="w-[500px]" />
+            <img src="./images/projects/Anfahrtsvideo_Auto.gif" alt="" className="w-[500px] mb-5 md:mb-0" />
+            <img src="./images/projects/Beratung_&_Förderung.gif" alt="" className="w-[500px]" />
         </div>
         <div className="block md:flex justify-between">
-            <img src="/images/projects/Meine-Region-v17.gif" alt="" className="w-[500px] mb-5 md:mb-0" />
-            <img src="/images/projects/schaufenster-arbeitsmarkt.gif" alt="" className="w-[500px]" />
+            <img src="./images/projects/Meine-Region-v17.gif" alt="" className="w-[500px] mb-5 md:mb-0" />
+            <img src="./images/projects/schaufenster-arbeitsmarkt.gif" alt="" className="w-[500px]" />
         </div>
         <div className="block md:flex justify-between">
-            <img src="/images/projects/Stadternte-Wien-reel-v2.gif" alt="" className="mx-auto md:mx-0" />
+            <img src="./images/projects/Stadternte-Wien-reel-v2.gif" alt="" className="mx-auto md:mx-0" />
             <div className="flex flex-col gap-y-5 mt-5 md:mt-0">
-            <img src="/images/projects/tigre2.gif" alt="" />
-            <img src="/images/projects/varal.gif" alt="" />
+            <img src="./images/projects/tigre2.gif" alt="" />
+            <img src="./images/projects/varal.gif" alt="" />
             </div>
         </div>
       {/* <Swiper

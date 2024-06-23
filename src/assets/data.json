@@ -22,19 +22,19 @@
 
     "buttons": [
       {
-        "image": "/images/hero/linkedin.svg",
+        "image": "./images/hero/linkedin.svg",
         "path": "",
         "en": "",
         "pt": ""
       },
       {
-        "image": "/images/hero/github.svg",
+        "image": "./images/hero/github.svg",
         "path": "",
         "en": "",
         "pt": ""
       },
       {
-        "image": "/images/hero/email.svg",
+        "image": "./images/hero/email.svg",
         "path": "",
         "en": "",
         "pt": ""
@@ -42,7 +42,7 @@
     ],
     "images": [
       {
-        "path": "/images/hero/me.jpg"
+        "path": "./images/hero/me.jpg"
       }
     ],
     "cta": [
@@ -81,22 +81,22 @@
       {
         "en": "WebSites",
         "pt": "WebSites ",
-        "image": "/images/projects/Anfahrtsvideo_Auto.gif"
+        "image": "./images/projects/Anfahrtsvideo_Auto.gif"
       },
       {
         "en": "Email Marketing",
         "pt": "Email Marketing",
-        "image": "/images/projects/Beratung_&_Förderung.gif"
+        "image": "./images/projects/Beratung_&_Förderung.gif"
       },
       {
         "en": "CRM Integration",
         "pt": "Integração com CRM",
-        "image": "/images/projects/Meine-Region-v17.gif"
+        "image": "./images/projects/Meine-Region-v17.gif"
       },
       {
         "en": "CRM Integration",
         "pt": "Integração com CRM",
-        "image": "/images/projects/schaufenster-arbeitsmarkt.gif"
+        "image": "./images/projects/schaufenster-arbeitsmarkt.gif"
       }
     ]
   },
@@ -155,7 +155,7 @@
       {
         "company": "Curseduca",
         "url": "https://curseduca.com/",
-        "image": "/images/projects/curseduca.png",
+        "image": "./images/projects/curseduca.png",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Correções e Melhorias na aplicação Saas de E-Learning"
@@ -177,7 +177,7 @@
       {
         "company": "Clinica Cauchioli",
         "url": "https://www.clinicacauchioli.com.br/",
-        "image": "/images/projects/clinica.png",
+        "image": "./images/projects/clinica.png",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"
@@ -199,7 +199,7 @@
       {
         "company": "Credlar Vendas",
         "url": "https://www.meuapenolitoral.com.br/",
-        "image": "/images/projects/credlar.png",
+        "image": "./images/projects/credlar.png",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"
@@ -221,7 +221,7 @@
       {
         "company": "Planet Dog",
         "url": "https://crecheparacachorrosaopaulo.com.br/",
-        "image": "/images/projects/planet-dog.png",
+        "image": "./images/projects/planet-dog.png",
         "title": {
           "en": "Website Update and Migration to ReactJS ",
           "pt": "Atualização do Website e Migração para ReactJS"

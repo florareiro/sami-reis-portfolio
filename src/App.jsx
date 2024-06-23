@@ -15,7 +15,7 @@ function App() {
 
   return (
     <AppProvider>
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/sami-reis-portfolio">
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />

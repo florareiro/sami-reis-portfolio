@@ -1,0 +1,289 @@
+{
+  "header": {
+    "title": {
+      "en": "Cecília Flora - Full Stack Developer",
+      "pt": "Cecília Flora - Dev Full Stack"
+    },
+    "menu": {
+      "en": ["About",  "Projects", "Contact"],
+      "pt": ["Sobre",  "Projetos", "Contato"],
+      "links": ["#about",  "#services", "#contact"]
+    }
+  },
+  "hero": {
+    "title": {
+      "en": "Hi, I'm Cecília Flora",
+      "pt": "Olá, eu sou Cecília Flora"
+    },
+    "text": {
+      "en": "I have 6 years of experience with focus on Motion Graphics and Graphic Design. I am a responsible and dynamic person, very passionate about video and animation. I have experience working on video, animations for social networks, producing short videos for companies, and designing characters in 2D. ",
+      "pt": "Ich habe 6 Jahre Erfahrung mit Schwerpunkt auf Motion Graphics und Grafikdesign. Ich bin eine verantwortungsbewusste und dynamische Person, die sehr leidenschaftlich für Video und Animation ist. Ich habe Erfahrung in der Arbeit an Videos, Animationen für soziale Netzwerke, Produktion von Kurzvideos für Unternehmen und im Designen von Charakteren in 2D."
+    },
+
+    "buttons": [
+      {
+        "image": "/images/hero/linkedin.svg",
+        "path": "",
+        "en": "",
+        "pt": ""
+      },
+      {
+        "image": "/images/hero/github.svg",
+        "path": "",
+        "en": "",
+        "pt": ""
+      },
+      {
+        "image": "/images/hero/email.svg",
+        "path": "",
+        "en": "",
+        "pt": ""
+      }
+    ],
+    "images": [
+      {
+        "path": "/images/hero/me.jpg"
+      }
+    ],
+    "cta": [
+      {
+        "en": "WHERE TO REACH ME ",
+        "pt": "ENTRAR EM CONTATO"
+      }
+    ]
+  },
+  "about": {
+    "text": {
+      "en": "Hi, I'm Samanta",
+      "pt": "Hallo, ich bin Samanta"
+    },
+    "desc": [
+      {
+        "en": "2D Animation",
+        "pt": "2D Animation"
+      },
+      {
+        "en": "Motion Design",
+        "pt": "Bewegungsdesign"
+      },
+      {
+        "en": "Graphic Design",
+        "pt": "Grafikdesigner"
+      }
+    ]
+  },
+  "services": {
+    "text": {
+      "en": "SERVICES",
+      "pt": "Dienstleistungen"
+    },
+    "services": [
+      {
+        "en": "WebSites",
+        "pt": "WebSites ",
+        "image": "/images/projects/Anfahrtsvideo_Auto.gif"
+      },
+      {
+        "en": "Email Marketing",
+        "pt": "Email Marketing",
+        "image": "/images/projects/Beratung_&_Förderung.gif"
+      },
+      {
+        "en": "CRM Integration",
+        "pt": "Integração com CRM",
+        "image": "/images/projects/Meine-Region-v17.gif"
+      },
+      {
+        "en": "CRM Integration",
+        "pt": "Integração com CRM",
+        "image": "/images/projects/schaufenster-arbeitsmarkt.gif"
+      }
+    ]
+  },
+  "projects": {
+    "text": {
+      "en": "Feature Projects",
+      "pt": "Projetos em Destaque"
+    },
+    "desc": {
+      "en": "Here are some of the projects I have participated in as a Full Stack Developer.",
+      "pt": "Aqui estão alguns dos projetos que já participei como Dev Full Stack."
+    },
+    "link": {
+      "en": "Visit Website",
+      "pt": "Ir Para o Site"
+    },
+    "information": {
+      "en": "Project Information",
+      "pt": "Informações do Projeto"
+    },
+    "year": {
+      "en": "Year",
+      "pt": "Ano"
+    },
+    "function": {
+      "en": "Role",
+      "pt": "Função"
+    },
+    "tech": {
+      "en": "Client",
+      "pt": "Kunde"
+    },
+    "projects": [
+      {
+        "company": "Summer Comuicação",
+        "url": "https://summercomunicacao.com.br/",
+        "image": "https://www.behance.net/embed/project/193638173?ilo0=1",
+        "title": {
+          "en": "Website Update and Migration to ReactJS ",
+          "pt": "Criação de Hotsites, Landing Pages, Gestão de CRM e CMS."
+        },
+        "desc": {
+          "en": "As a Full Stack Developer at the marketing agency Summer Comunicação, I developed websites, hot pages, and landing pages for clients from various market segments such as Healthcare, Logistics, and Construction companies. I designed email marketing campaigns for different providers like Outlook, Gmail, and RdStation, and conducted training sessions for marketing teams to facilitate campaign deliveries and provide support in adopting new technologies.",
+          "pt": "Como Dev Full Stack na agência de Marketing Summer Comunicação, desenvolvi websites hot pages e landing pages para clientes de diferentes segmentos de mercado como Saúde, Logística e Construtoras. Projetei campanhas de email marketing para diferentes provedores como Outlook, Gmail e RdStation e ministrei treinamentos para equipes de marketing para viabilizar entregas de campanhas e oferecer suporte na assimilação de novas tecnologias."
+        },
+        "year": "2023 - 2024",
+        "role": {
+          "en": "Full Stack Developer",
+          "pt": "Dev Full Stack"
+        },
+        "tech": {
+          "en": "Viena Airport",
+          "pt": "Viena Airport"
+        }
+      },
+      {
+        "company": "Curseduca",
+        "url": "https://curseduca.com/",
+        "image": "/images/projects/curseduca.png",
+        "title": {
+          "en": "Website Update and Migration to ReactJS ",
+          "pt": "Correções e Melhorias na aplicação Saas de E-Learning"
+        },
+        "desc": {
+          "en": "As a Full Stack Developer at Curseduca, I performed maintenance on the monolithic PHP MVC application built with Zend Framework, vanilla JavaScript, and jQuery. I was involved in the early stages of the project migration to a microservices architecture, creating RESTful APIs with NestJS and Prisma ORM, using Clean Code and Domain-Driven Design (DDD) as approaches.",
+          "pt": "Como Dev Full Stack do Curseduca, realizei manutenções na aplicação monolito em php mvc, zend framework vanilla js e jQuery. Participei do início do projeto de migração para arquitetura de microsseriços criando Restfull Apis com nestjs, prisma ORM usando Clean Code e DDD como abordagem."
+        },
+        "year": "2022 - 2023",
+        "role": {
+          "en": "Full Stack Developer",
+          "pt": "Dev Full Stack"
+        },
+        "tech": {
+          "en": "PHP, JQuery, VanillaJs, Nodejs, Nestjs. React, Next, MariaDb, Prisma ORM, Docker ",
+          "pt": "PHP, JQuery, VanillaJs, Nodejs, Nestjs. React, Next, MariaDb, Prisma ORM, Docker "
+        }
+      },
+      {
+        "company": "Clinica Cauchioli",
+        "url": "https://www.clinicacauchioli.com.br/",
+        "image": "/images/projects/clinica.png",
+        "title": {
+          "en": "Website Update and Migration to ReactJS ",
+          "pt": "Atualização do Website e Migração para ReactJS"
+        },
+        "desc": {
+          "en": "As a Full Stack Developer for the website of Clinica Cauchioli, I implemented corrections and improvements to the project using PHP, CodeIgniter, jQuery, WordPress, and MySQL. I carried out the migration of the platform to ReactJS, utilizing the WordPress API as the backend. Additionally, I developed email response functionality for contact forms.",
+          "pt": "Como Dev Full Stack para o website  da Clinica Cauchioli, desenvolvi correções e melhorias no projeto em PHP, Codeigniter, JQuery, Wordpress e Mysql. Realizei a migração da plataforma para ReactJs consumindo a API do Wordpress como Backend. Também desenvolvi email de resposta para formulários de contato."
+        },
+        "year": "2023 - 2024",
+        "role": {
+          "en": "Full Stack Developer",
+          "pt": "Dev Full Stack"
+        },
+        "tech": {
+          "en": "PHP, Codeigniter, Mysql, JQuery, ReactJs, Wordpress, Api Wordpress, Email Marketing,Hospedagem, Servidor FTP, Gestão Web Analytics.",
+          "pt": "PHP, Codeigniter, Mysql, JQuery, ReactJs, Wordpress, Api Wordpress, Email Marketing,Hospedagem, Servidor FTP , Gestão Web Analytics."
+        }
+      },
+      {
+        "company": "Credlar Vendas",
+        "url": "https://www.meuapenolitoral.com.br/",
+        "image": "/images/projects/credlar.png",
+        "title": {
+          "en": "Website Update and Migration to ReactJS ",
+          "pt": "Atualização do Website e Migração para ReactJS"
+        },
+        "desc": {
+          "en": "As a Full Stack Developer for the sales website of Construtora Credlar, I implemented corrections and improvements to the project using PHP, CodeIgniter, jQuery, WordPress, and MySQL. I carried out the migration of the platform to ReactJS, utilizing the WordPress API as the backend. Additionally, I developed email response functionality for interest forms and personalized email marketing campaigns for each type of real estate project.",
+          "pt": "Como Dev Full Stack para o website de vendas da Construtora Credlar, desenvolvi correções e melhorias no projeto em PHP, Codeigniter, JQuery, Wordpress e Mysql. Realizei a migração da plataforma para ReactJs consumindo a API do Wordpress como Backend. Também desenvolvi Email de resposta para formulários de interesse e email marketing personalizados para cada tipo de empreendimento."
+        },
+        "year": "2023 - 2024",
+        "role": {
+          "en": "Full Stack Developer",
+          "pt": "Dev Full Stack"
+        },
+        "tech": {
+          "en": "PHP, Codeigniter, Mysql, JQuery, ReactJs, Wordpress, Api Wordpress, Email Marketing,Hospedagem, Servidor FTP, Gestão Web Analytics.",
+          "pt": "PHP, Codeigniter, Mysql, JQuery, ReactJs, Wordpress, Api Wordpress, Email Marketing,Hospedagem, Servidor FTP , Gestão Web Analytics."
+        }
+      },
+      {
+        "company": "Planet Dog",
+        "url": "https://crecheparacachorrosaopaulo.com.br/",
+        "image": "/images/projects/planet-dog.png",
+        "title": {
+          "en": "Website Update and Migration to ReactJS ",
+          "pt": "Atualização do Website e Migração para ReactJS"
+        },
+        "desc": {
+          "en": "As a Full Stack Developer for the website of Planet Dog - Creche Para Cachorros, I implemented corrections and improvements to the project using PHP, CodeIgniter, jQuery, WordPress, and MySQL. I carried out the migration of the platform to ReactJS, utilizing the WordPress API as the backend. Additionally, I developed email response functionality for interest forms and personalized email marketing campaigns for each type of service.",
+          "pt": "Como Dev Full Stack para o website Planet Dog - Creche Para Cachorros, desenvolvi correções e melhorias no projeto em PHP, Codeigniter, JQuery, Wordpress e Mysql. Realizei a migração da plataforma para ReactJs consumindo a API do Wordpress como Backend. Também desenvolvi Email de resposta para formulários de interesse e email marketing personalizados para cada tipo de serviço ."
+        },
+        "year": "2023 - 2024",
+        "role": {
+          "en": "Full Stack Developer",
+          "pt": "Dev Full Stack"
+        },
+        "tech": {
+          "en": "PHP, Codeigniter, Mysql, JQuery, ReactJs, Wordpress, Api Wordpress, Email Marketing,Hospedagem, Servidor FTP, Gestão Web Analytics.",
+          "pt": "PHP, Codeigniter, Mysql, JQuery, ReactJs, Wordpress, Api Wordpress, Email Marketing,Hospedagem, Servidor FTP , Gestão Web Analytics."
+        }
+      }
+    ]
+  },
+  "contact": {
+    "title": {
+      "en": "Get in Touch",
+      "pt": "Entrar em Contato"
+    },
+    "name": {
+      "en": "your name:",
+      "pt": "seu nome:"
+    },
+    "email": {
+      "en": "your email:",
+      "pt": "seu email:"
+    },
+    "tel": {
+      "en": "Tel:",
+      "pt": "Tel:"
+    },
+    "message": {
+      "en": "message:",
+      "pt": "mensagem:"
+    },
+    "button": {
+      "en": "send",
+      "pt": "enviar"
+    },
+    "loading": {
+      "en": "sending...",
+      "pt": "enviando..."
+    },
+    "error": {
+      "en": "Error submitting form. Please try again later.",
+      "pt": "Erro ao enviar Formulário. Tente novamente mais tarde."
+    },
+    "success": {
+      "en": "Form submitted successfully!",
+      "pt": "Formulário enviado com sucesso!"
+    }
+  },
+  "social": {
+    "github": "https://github.com/florareiro",
+    "linkdin": "https://www.linkedin.com/in/samanta-reis-16149313/",
+    "mail": "mailto:smnt.rs@gmail.com",
+    "wpp": "https://wa.me/5511962515995"
+  }
+}

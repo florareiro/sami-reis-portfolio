@@ -37,15 +37,15 @@ const Services = () => {
             <img src="./images/projects/schaufenster-arbeitsmarkt.gif" alt="" className="w-[500px]" />
         </div>
         <div className="block md:flex justify-between">
-            <img src="./images/projects/barg.png" alt="" className="w-[500px] mb-5 md:mb-0" />
             <img src="./images/projects/dog 01.png" alt="" className="w-[500px]" />
+            <img src="./images/projects/do 02.png" alt="" className="w-[500px] mb-5 md:mb-0" />
         </div>
         <div className="block md:flex justify-between">
-            <img src="./images/projects/IMG-2999.jpg" alt="" className="w-[500px] mb-5 md:mb-0" />
+            <img src="./images/projects/barg.png" alt="" className="w-[500px] mb-5 md:mb-0" />
             <img src="./images/projects/nordeste.png" alt="" className="w-[500px]" />
         </div>
         <div className="block md:flex justify-between">
-            <img src="./images/projects/do 02.png" alt="" className="w-[500px] mb-5 md:mb-0" />
+            <img src="./images/projects/IMG-2999.jpg" alt="" className="w-[500px] mb-5 md:mb-0" />
             <img src="./images/projects/IMG-3003.jpg" alt="" className="w-[500px]" />
         </div>
         <div className="block md:flex justify-between">

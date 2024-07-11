@@ -37,6 +37,18 @@ const Services = () => {
             <img src="./images/projects/schaufenster-arbeitsmarkt.gif" alt="" className="w-[500px]" />
         </div>
         <div className="block md:flex justify-between">
+            <img src="./images/projects/barg.png" alt="" className="w-[500px] mb-5 md:mb-0" />
+            <img src="./images/projects/dog 01.png" alt="" className="w-[500px]" />
+        </div>
+        <div className="block md:flex justify-between">
+            <img src="./images/projects/IMG-2999.jpg" alt="" className="w-[500px] mb-5 md:mb-0" />
+            <img src="./images/projects/nordeste.png" alt="" className="w-[500px]" />
+        </div>
+        <div className="block md:flex justify-between">
+            <img src="./images/projects/do 02.png" alt="" className="w-[500px] mb-5 md:mb-0" />
+            <img src="./images/projects/logo-2.png" alt="" className="w-[500px]" />
+        </div>
+        <div className="block md:flex justify-between">
             <img src="./images/projects/Stadternte-Wien-reel-v2.gif" alt="" className="mx-auto md:mx-0" />
             <div className="flex flex-col gap-y-5 mt-5 md:mt-0">
             <img src="./images/projects/tigre2.gif" alt="" />

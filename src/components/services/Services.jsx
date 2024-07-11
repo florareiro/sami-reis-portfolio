@@ -46,7 +46,7 @@ const Services = () => {
         </div>
         <div className="block md:flex justify-between">
             <img src="./images/projects/do 02.png" alt="" className="w-[500px] mb-5 md:mb-0" />
-            <img src="./images/projects/logo-2.png" alt="" className="w-[500px]" />
+            <img src="./images/projects/IMG-3003.jpg" alt="" className="w-[500px]" />
         </div>
         <div className="block md:flex justify-between">
             <img src="./images/projects/Stadternte-Wien-reel-v2.gif" alt="" className="mx-auto md:mx-0" />
